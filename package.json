@@ -1,0 +1,15 @@
+{
+  "name": "iancupj",
+  "version": "1.0.0",
+  "description": "excel tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docx": "^7.3.0",
+    "exceljs": "^4.3.0"
+  }
+}
