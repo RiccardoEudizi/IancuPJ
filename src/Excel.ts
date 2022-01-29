@@ -21,7 +21,6 @@ export default () => {
 };
 
 const writeFile = async (workbook: ExcelJS.Workbook) => {
-    // write to a file
-await workbook.xlsx.writeFile('Ciao.xlsx');
-
-}
+  // write to a file
+  await workbook.xlsx.writeFile("Ciao.xlsx");
+};
